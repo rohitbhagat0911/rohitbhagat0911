@@ -1,4 +1,4 @@
-## 👋 Hi there, I'm Rohit Bhagat
+## Hey 👋 I’m Rohit 
 
 I'm a full-stack software engineer with 1.5+ years of experience building scalable, cross-platform applications across mobile, web, and backend systems. I specialize in crafting clean, maintainable architectures and delivering user-focused solutions with strong performance and design consistency.
 
