@@ -98,6 +98,9 @@ Interested in working together or hiring a reliable full-stack developer?
 Click below to view or download my resume — let's build something great.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E535AB)](https://drive.google.com/file/d/1iH9-wnia0GV6lPBe4xB_AZq_zfMmd_Tc/view?usp=sharing)
+<a href="https://drive.google.com/file/d/1iH9-wnia0GV6lPBe4xB_AZq_zfMmd_Tc/view?usp=sharing" target="_blank">
+  <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E535AB" alt="Download Resume">
+</a>
 
 ---
 
