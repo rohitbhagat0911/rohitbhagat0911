@@ -6,6 +6,7 @@ I’ve independently led end-to-end development and deployment for production-gr
 
 ---
 
+
 ### 🧠 Core Engineering Areas
 
 **Cross-Platform Development** – Designing and building production-grade mobile and web apps using unified codebases with responsive, pixel-perfect UI/UX.
@@ -22,6 +23,8 @@ I’ve independently led end-to-end development and deployment for production-gr
 
 ---
 
+
+
 ### 👨‍💻 What I’m Doing Now
 - 🛠️ Building production-ready apps with great UX and clean architecture  
 - 📈 Optimizing APIs and databases for performance and scalability  
@@ -29,12 +32,16 @@ I’ve independently led end-to-end development and deployment for production-gr
 
 ---
 
+
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohitbhagat0911-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rohitbhagat0911)
 [![Gmail](https://img.shields.io/badge/Gmail-rohitbhagat0911@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rohitbhagat0911@gmail.com)
 
 ---
+
+
 
 ### 🧰 Tech Stack
 
@@ -92,17 +99,18 @@ I’ve independently led end-to-end development and deployment for production-gr
 
 ---
 
+
+
 ### 📄 For Employers & Collaborators
 
 Interested in working together or hiring a reliable full-stack developer?  
 Click below to view or download my resume — let's build something great.
 
 [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E535AB)](https://drive.google.com/file/d/1iH9-wnia0GV6lPBe4xB_AZq_zfMmd_Tc/view?usp=sharing)
-<a href="https://drive.google.com/file/d/1iH9-wnia0GV6lPBe4xB_AZq_zfMmd_Tc/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E535AB" alt="Download Resume">
-</a>
 
 ---
+
+
 
 ### 📊 GitHub Stats
 
