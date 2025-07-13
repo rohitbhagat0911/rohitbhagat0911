@@ -106,7 +106,8 @@ I’ve independently led end-to-end development and deployment for production-gr
 Interested in working together or hiring a reliable full-stack developer?  
 Click below to view or download my resume — let's build something great.
 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-informational?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&color=E535AB)](https://drive.google.com/file/d/1iH9-wnia0GV6lPBe4xB_AZq_zfMmd_Tc/view?usp=sharing)
+[📄 Download My Resume](https://drive.google.com/file/d/1iH9-wnia0GV6lPBe4xB_AZq_zfMmd_Tc/view?usp=sharing)
+
 
 ---
 
