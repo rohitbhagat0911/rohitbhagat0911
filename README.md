@@ -9,17 +9,17 @@ I’ve independently led end-to-end development and deployment for production-gr
 
 ### 🧠 Core Engineering Areas
 
-**Cross-Platform Development** – Designing and building production-grade mobile and web apps using unified codebases with responsive, pixel-perfect UI/UX.
+- **Cross-Platform Development** – Designing and building production-grade mobile and web apps using unified codebases with responsive, pixel-perfect UI/UX.
 
-**Full-Cycle Delivery** – Leading end-to-end workflows from Figma design and API integration to deployment across Play Store, App Store, Windows Store, and Web.
+- **Full-Cycle Delivery** – Leading end-to-end workflows from Figma design and API integration to deployment across Play Store, App Store, Windows Store, and Web.
 
-**Modular & Scalable Architectures** – Implementing clean architecture, state management patterns, and modular codebases for maintainability and scale.
+- **Modular & Scalable Architectures** – Implementing clean architecture, state management patterns, and modular codebases for maintainability and scale.
 
-**API-Driven Systems** – Building and integrating RESTful and GraphQL APIs, with optimizations for caching, indexing, and high-concurrency performance.
+- **API-Driven Systems** – Building and integrating RESTful and GraphQL APIs, with optimizations for caching, indexing, and high-concurrency performance.
 
-**Real-Time & Analytics Features** – Implemented WebSocket-based Kanban, dynamic pivot reports, and 10+ interactive charts with secure access control.
+- **Real-Time & Analytics Features** – Implemented WebSocket-based Kanban, dynamic pivot reports, and 10+ interactive charts with secure access control.
 
-**Tech Explorer** – Continuously learning and experimenting with cloud functions, DevOps workflows, and AI.
+- **Tech Explorer** – Continuously learning and experimenting with cloud functions, DevOps workflows, and AI.
 
 ---
 
