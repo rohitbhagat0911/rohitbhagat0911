@@ -113,7 +113,7 @@ Click below to view or download my resume — let's build something great.
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohitbhagat0911&theme=tokyonight&hide_border=true)
 
 <!-- Contribution Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitbhagat0911&theme=tokyo-night&hide_border=true)](https://github.com/rohitbhagat0911)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohitBhagat&theme=tokyo-night&hide_border=true)](https://github.com/rohitbhagat0911)
 
 
 > _"Great software is not just written — it's designed, debated, broken, and rebuilt."_
