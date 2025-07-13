@@ -104,7 +104,7 @@ Click below to view or download my resume — let's build something great.
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit%20bhagat0911&show_icons=true&theme=tokyonight&hide_border=true)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitbhagat0911&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhagat0911&layout=compact&theme=tokyonight&hide_border=true)
