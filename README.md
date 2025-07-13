@@ -113,9 +113,7 @@ Click below to view or download my resume — let's build something great.
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohitbhagat0911&theme=tokyonight&hide_border=true)
 
 <!-- Contribution Graph -->
-[![Rohit's GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=rohitbhagat0911&theme=tokyo-night&hide_border=true)](https://github.com/rohitbhagat0911)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitbhagat0911&theme=tokyo-night&hide_border=true)](https://github.com/rohitbhagat0911)
 
 
-> _"In code we trust, in clarity we thrive, and in feedback we grow."_  
-> — Some HR-approved wisdom from 1000 years in the industry 😄
-
+> _"Great software is not just written — it's designed, debated, broken, and rebuilt."_
