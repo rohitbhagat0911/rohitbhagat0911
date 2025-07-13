@@ -104,7 +104,7 @@ Click below to view or download my resume — let's build something great.
 ### 📊 GitHub Stats
 
 <!-- GitHub Stats -->
-![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitbhagat0911&show_icons=true&theme=tokyonight&hide_border=true)
+![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit%20bhagat0911&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Most Used Languages -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohitbhagat0911&layout=compact&theme=tokyonight&hide_border=true)
@@ -113,7 +113,7 @@ Click below to view or download my resume — let's build something great.
 ![GitHub Streak](https://streak-stats.demolab.com?user=rohitbhagat0911&theme=tokyonight&hide_border=true)
 
 <!-- Contribution Graph -->
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RohitBhagat&theme=tokyo-night&hide_border=true)](https://github.com/rohitbhagat0911)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=rohitbhagat0911&theme=tokyo-night&hide_border=true)](https://github.com/rohitbhagat0911)
 
 
 > _"Great software is not just written — it's designed, debated, broken, and rebuilt."_
