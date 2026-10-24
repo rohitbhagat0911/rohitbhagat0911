@@ -10,7 +10,7 @@ Before that, I owned mobile engineering end to end, shipping 5+ Flutter apps to 
 
 - **Full-stack delivery:** React, ASP.NET Web API and SQL Server / PostgreSQL, deployed on IIS.
 - **Payments:** EaseBuzz, Razorpay and PayPal, with webhook handling, idempotency and audit-ready logs.
-- **Security:** multi-factor authentication, OAuth2, JWT and role-based access control.
+- **Security:** MFA, per-user authorization, anti-forgery tokens, SameSite=Strict cookies, session-token lifecycle control, rate limiting, and stored procedures / Entity Framework against SQL injection.
 - **Mobile:** Flutter apps (GetX, Provider, BLoC) released to four storefronts, with Firebase Crashlytics monitoring.
 - **Real-time and analytics:** WebSocket features, dynamic pivot reports and 10+ interactive charts.
 - **AI engineering (personal projects):** RAG, embeddings, vector search and MCP-based LLM agents.
