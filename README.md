@@ -51,14 +51,6 @@ Before that, I owned mobile engineering end to end, shipping 5+ Flutter apps to 
 
 ---
 
-### 📄 For Employers & Collaborators
-
-Hiring a full-stack developer with government, payments and mobile experience? Here is my resume.
-
-[Download My Resume](ADD-NEW-RESUME-LINK-HERE)
-
----
-
 ### 📊 GitHub Stats
 
 ![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohitbhagat0911&show_icons=true&theme=tokyonight&hide_border=true)
