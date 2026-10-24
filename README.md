@@ -17,17 +17,6 @@ Before that, I owned mobile engineering end to end, shipping 5+ Flutter apps to 
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | What it is | Stack |
-|---|---|---|
-| **Policy Q&A Assistant** | Q&A over public policy documents with cited sources and a retrieval-quality test set; CI fails the build if quality drops | .NET Web API, PostgreSQL + pgvector, React, GitHub Actions |
-| **Payments Reconciliation Agent** | MCP server giving an LLM agent read-only tools over synthetic payment data, with an audit log of every tool call | .NET, MCP, SQL Server |
-
-> Add repo links here once both projects are public.
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rohitbhagat0911-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/rohitbhagat0911)
